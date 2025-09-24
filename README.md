@@ -1,6 +1,8 @@
-# Christopher C Skinner – Geospatial Systems & Data Engineering Portfolio
+## 👋 About Me
 
-Selected work in enterprise GIS architecture, data engineering, and public data delivery with a focus on geoscience, energy systems, and spatial integration. Each project reflects a blend of technical execution, stakeholder alignment, and scalable design.
+Hi, I’m Chris Skinner — a geospatial data scientist and systems architect with 20+ years of experience in geoscience data systems, GIS infrastructure, and energy data integration. Below are a few stakeholder successes showcasing Geospatial and Database technologies in the energy sector. 
+
+📫 [LinkedIn](https://www.linkedin.com/in/chriscskinner/) • [Resume (PDF)](./resume.pdf) • [Email](mailto:kingshorthair@gmail.com)
 
 ---
 
@@ -34,10 +36,10 @@ Selected work in enterprise GIS architecture, data engineering, and public data 
 
 ---
 ## 🗂️ Data Catalogs & Integration Workflows  
-<img src="/sp_dashboard.png" alt="Oil Gas Viewer" height="120" align="right"/>
+<img src="/sp_dashboard.png" alt="Oil Gas Viewer" height="110" align="right"/>
 
 **Role:** Lead Architect and Coordinator of Geospatial Data Catalogs  
-**Summary:** Built internal catalogs for well logs, seismic, and geochemistry data. Integrated vendor datasets (e.g., SP Global via Snowflake) with ArcGIS tools, enable use in platforms like Kingdom and Harmony. Emphasized scalable, user-friendly access. Managed $2.7m/year vendor contract.
+**Summary:** Built internal catalogs for well logs, seismic, and geochemistry data. Integrated vendor datasets (e.g., SP Global via Snowflake) with ArcGIS tools, enable use in platforms like Kingdom and Harmony. Emphasized scalable, user-friendly access. Managed $2.7m/year vendor data contract.
 
 ---
 

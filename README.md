@@ -5,7 +5,7 @@ This portfolio highlights selected work in enterprise GIS architecture, data eng
 ---
 
 ## 📍 Aggregated Oil and Gas Database 
-<img src="aggregated_OG_map.png" alt="Oil Gas Viewer" width="300"/>
+<img src="/aggregated_OG_map.png" alt="Oil Gas Viewer" width="300" height = "150"/>
 
 **Role:** Lead Data Architect and Release Author  
 **Summary:** Developed a national-scale pipeline for oil and gas well history and production, integrating with ESRI-based visualization and published as a USGS data release.  

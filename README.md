@@ -1,8 +1,6 @@
-## 👋 About Me
+# Christopher C. Skinner – Geospatial Data Portfolio
 
-Hi, I’m Chris Skinner — a geospatial data scientist and systems architect with 20+ years of experience in geoscience data systems, GIS infrastructure, and energy data integration. Below are a few stakeholder successes showcasing Geospatial and Database technologies in the energy sector. 
-
-📫 [LinkedIn](https://www.linkedin.com/in/chriscskinner/) • [Resume (PDF)](./resume.pdf) • [Email](mailto:kingshorthair@gmail.com)
+This portfolio highlights selected work in enterprise GIS architecture, data engineering, and public data delivery with a focus on geoscience, energy systems, and spatial integration. Each project reflects a blend of technical execution, stakeholder alignment, and scalable design.
 
 ---
 
@@ -18,7 +16,7 @@ Hi, I’m Chris Skinner — a geospatial data scientist and systems architect wi
 ---
 
 ## 🛠️ ArcGIS Enterprise System Administration  
-<img src="/base-deployment.png" alt="Oil Gas Viewer" height="130" align="right"/>
+<img src="/base-deployment.png" alt="Arc gis system admin" height="130" align="right"/>
 
 **Role:** Team Lead for ArcGIS Enterprise Environments  
 **Summary:** Directed the administration of a locally deployed ArcGIS Enterprise stack, including Portal, Server, Data Store, and Image Server. Oversaw upgrades, patch management, and federation with ArcGIS Online. Led governance of user access, coordinated with IT on infrastructure, and maintained dev/test/prod environments to support stable, scalable operations.
@@ -26,7 +24,7 @@ Hi, I’m Chris Skinner — a geospatial data scientist and systems architect wi
 ---
 
 ## 🔁 Energy Program Data Release Platform  
-<img src="/williston_data_release.png" alt="Oil Gas Viewer" height="190" align="left"/>
+<img src="/williston_data_release.png" alt="Williston data release" height="190" align="left"/>
 
 **Role:** System Owner for Data Lifecycle, Metadata Governance, and DOI Management  
 **Summary:** Oversaw over 500 USGS data releases. Created tools, templates, and pipelines for efficient metadata-driven releases with ArcGIS Online integration. Led stakeholder training and engagement.  
@@ -36,7 +34,7 @@ Hi, I’m Chris Skinner — a geospatial data scientist and systems architect wi
 
 ---
 ## 🗂️ Data Catalogs & Integration Workflows  
-<img src="/sp_dashboard.png" alt="Oil Gas Viewer" height="110" align="right"/>
+<img src="/sp_dashboard.png" alt="dashboard" height="110" align="right"/>
 
 **Role:** Lead Architect and Coordinator of Geospatial Data Catalogs  
 **Summary:** Built internal catalogs for well logs, seismic, and geochemistry data. Integrated vendor datasets (e.g., SP Global via Snowflake) with ArcGIS tools, enable use in platforms like Kingdom and Harmony. Emphasized scalable, user-friendly access. Managed $2.7m/year vendor data contract.
@@ -45,7 +43,7 @@ Hi, I’m Chris Skinner — a geospatial data scientist and systems architect wi
 
 
 ## 🌍 National Geologic Hydrogen Raster Workflow  
-<img src="/hydrogen_map.png" alt="Oil Gas Viewer" height="150" align="left"/>
+<img src="/hydrogen_map.png" alt="Hydrogen application" height="150" align="left"/>
 
 **Role:** Processing Automation and Architecture Contributor  
 **Summary:** Developed raster automation workflows to support national Monte Carlo simulations for hydrogen prospectivity using 16 geologic layers.  
@@ -56,7 +54,7 @@ Hi, I’m Chris Skinner — a geospatial data scientist and systems architect wi
 ---
 
 ## 🧭 Map-Based Visualizations  
-<img src="/noga_dashboard.png" alt="Oil Gas Viewer" height="150" align="right"/>
+<img src="/noga_dashboard.png" alt="NOGA dashboard" height="150" align="right"/>
 
 **Role:** Data Engineer and Stakeholder Liaison  
 **Summary:** Collaborated with front-end developers to build dashboards, story maps, and viewers that present spatial data in actionable formats.  
@@ -64,3 +62,12 @@ Hi, I’m Chris Skinner — a geospatial data scientist and systems architect wi
 - 📊 [USGS Continuous Assessments Dashboard](https://certmapper.cr.usgs.gov/data/apps/noga-summary/)  
 - 🧾 [NPR-A Seismic Archive Viewer](https://certmapper.cr.usgs.gov/data/apps/npra/)
 - 📰 [USGS World Oil and Gas Assessments](https://certmapper.cr.usgs.gov/data/apps/world-energy/)
+
+
+## 👋 About Me
+<img src="/bit.ly_kingshorthair.png" alt="Oil Gas Viewer" height="110" align="right"/>
+Hi, I’m **Chris Skinner** — a geospatial data leader/data wrangler with 20+ years of experience in geoscience data systems, GIS infrastructure, and energy data integration. 
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chriscskinner/)
+- 📄 [Resume (PDF)](./resume.pdf)
+- 📬 [Email](mailto:kingshorthair@gmail.com)

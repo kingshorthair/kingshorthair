@@ -1,6 +1,6 @@
-# Christopher C. Skinner – Geospatial Data Portfolio
+# Christopher C. Skinner – Petroleum Data Portfolio
 
-This portfolio highlights selected work in enterprise GIS architecture, data engineering, and public data delivery with a focus on geoscience, energy systems, and spatial integration. Each project reflects a blend of technical execution, stakeholder alignment, and scalable design.
+This portfolio highlights selected work in data engineering, ETL pipeline development, and public energy data delivery, with a focus on state and federal regulatory datasets, well and production data, and structured data normalization. Each project demonstrates a blend of technical problem solving, data quality management, and scalable workflow design, reflecting my experience in making complex, heterogeneous datasets accurate, accessible, and actionable.
 
 ---
 

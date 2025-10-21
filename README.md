@@ -1,74 +1,38 @@
-# Christopher C. Skinner – Geospatial Data Portfolio
+# 👋 Hi, I'm Chris Skinner
+Geospatial Data Leader | Data Engineering | Metadata Governance | GIS Architecture
 
-This portfolio highlights selected work in enterprise GIS architecture, data engineering, and public data delivery with a focus on geoscience, energy systems, and spatial integration. Each project reflects a blend of technical execution, stakeholder alignment, and scalable design.
-
----
-
-## 📍 Aggregated Oil and Gas Drilling and Production History 
-<img src="/aggregated_OG_map.png" alt="Oil Gas Viewer" height="190" align="left"/>
-
-**Role:** Lead Data Architect and Release Author  
-**Summary:** Led the design and implementation of a national-scale data pipeline to spatially and temporally aggregate millions of oil and gas wells, production volumes, and status history across all U.S. states.  
-- 🔗 [Web Viewer](https://certmapper.cr.usgs.gov/data/apps/oil_gas_cells/)  
-- 📄 [Data Release (DOI)](https://doi.org/10.5066/P9UIR5HE)  
-- 🐍 [Python Script](https://github.com/kingshorthair/resume/blob/main/production_aggregation.py)
+> I build systems that turn geoscience data into insight — from spatial pipelines and metadata governance to scalable delivery platforms.
 
 ---
 
-## 🛠️ ArcGIS Enterprise System Administration  
-<img src="/arcgis_base_deployment_purple.png" alt="Arc gis system admin" height="130" align="right"/>
-
-**Role:** Team Lead for ArcGIS Enterprise Environments  
-**Summary:** Directed the administration of internal and public-facing ArcGIS Enterprise environments. Internally, the system served ~50 staff with controlled access to internal data catalogs. Publicly, the stack powered dashboards, web apps, and data viewers with federation to ArcGIS Online. Led governance of user access, coordinated with IT on infrastructure, and maintained dev/test/prod environments to support stable, scalable operations. 
-
----
-
-## 🗂️ Data Catalogs & Integration Workflows  
-<img src="/sp_dashboard.png" alt="dashboard" height="110" align="left"/>
-
-**Role:** Lead Architect and Coordinator of Geospatial Data Catalogs  
-**Summary:** Built internal catalogs for well logs, seismic, and geochemistry data. Integrated vendor datasets (e.g., SP Global via Snowflake) with ArcGIS tools, enable use in platforms like Kingdom and Harmony. Emphasized scalable, user-friendly access. Managed $2.7M/year vendor data contract.
+## 🧱 Highlights
+- 🌍 **20+ years** of experience in geoscience data systems at the U.S. Geological Survey  
+- ⚙️ Expertise in **GIS infrastructure**, **data engineering**, **metadata lifecycle** and  **automation**  
+- 🗂️ Proven leader in aligning technical pipelines with **FAIR** and **open data** principles  
+- 🤝 Passionate about **bridging technical and stakeholder needs** in data-heavy domains  
 
 ---
 
-## 🧭 Map-Based Visualizations  
-<img src="/noga_dashboard.png" alt="NOGA dashboard" height="150" align="right"/>
-
-**Role:** Data Engineer and Stakeholder Liaison  
-**Summary:** Collaborated with front-end developers to build dashboards, story maps, and viewers that present spatial data in actionable formats.  
-- 🗺️ [Orphaned Well Story Map](https://certmapper.cr.usgs.gov/data/apps/orphanedwell_waterquality/)  
-- 📊 [USGS Continuous Assessments Dashboard](https://certmapper.cr.usgs.gov/data/apps/noga-summary/)  
-- 🧾 [NPR-A Seismic Archive Viewer](https://certmapper.cr.usgs.gov/data/apps/npra/)
-- 📰 [USGS World Oil and Gas Assessments](https://certmapper.cr.usgs.gov/data/apps/world-energy/)
+## 🚀 Featured Work
+| Project | Description | Links |
+|----------|--------------|-------|
+| [Aggregated Oil & Gas History](https://kingshorthair.github.io/#role=Data%20Engineering) | National-scale data pipeline integrating millions of wells and production records | [Web Viewer](https://certmapper.cr.usgs.gov/data/apps/oil_gas_cells/) |
+| [Data Release Platform](https://kingshorthair.github.io/#role=Product%20Owner) | Automated metadata creation, validation, and DOI registration | [ScienceBase](https://www.sciencebase.gov/catalog/folder/59cab03de4b017cf314094df/) |
+| [ArcGIS Desktop and Enterprise Admin](https://kingshorthair.github.io/#role=Geospatial) | Led internal and public-facing enterprise deployments | — |
 
 ---
 
-## 🔁 Energy Program Data Release Platform  
-<img src="/williston_data_release.png" alt="Williston data release" height="190" align="left"/>
-
-**Role:** System Owner for Data Lifecycle, Metadata Governance, and DOI Management  
-**Summary:** Oversaw over 500 USGS data releases. Created tools, templates, and pipelines for efficient metadata-driven releases with ArcGIS Online integration. Led stakeholder training and engagement.  
-- 📄 [3D Petroleum System Model (Sample Release)](https://doi.org/10.5066/P9N7O1OT)  
-- 📚 [Current Release Catalog](https://www.sciencebase.gov/catalog/folder/59cab03de4b017cf314094df)  
-- 🗃️ [Legacy Archive](https://www.sciencebase.gov/catalog/folder/601c5893d34e94a4b9fc2742)
+## 📘 Portfolio
+➡️ Visit **[kingshorthair.github.io/portfolio](https://kingshorthair.github.io/portfolio)** for the full interactive portfolio with filtering by role and technology.
 
 ---
 
-## 🌍 National Geologic Hydrogen Raster Workflow  
-<img src="/hydrogen_map.png" alt="Hydrogen application" height="150" align="right"/>
+## 🧭 About Me
+I’m a geospatial data leader and advocate for efficient, transparent data systems. My background bridges geoscience workflows, energy data systems, and enterprise GIS with modern data engineering and integration practices — all aimed at building smooth, scalable, and reliable data ecosystems.
 
-**Role:** Processing Automation and Architecture Contributor  
-**Summary:** Developed raster automation workflows to support national Monte Carlo simulations for hydrogen prospectivity using 16 geologic layers.  
-- 🔗 [Web Application](https://certmapper.cr.usgs.gov/data/apps/hydrogen/)  
-- 📄 [Data Release](https://doi.org/10.5066/P13WCG5U)  
-- 📰 [Publication](https://doi.org/10.3133/pp1900)
+When not wrangling data or improving metadata governance, I’m exploring Colorado with my family, on pedals, a board, my feet or with paddle.
 
 ---
 
-## 👋 About Me
-<img src="/bit.ly_kingshorthair.png" alt="Oil Gas Viewer" height="110" align="right"/>
-Hi, I’m **Chris Skinner** — a geospatial data leader/data wrangler with 20+ years of experience in geoscience data systems, GIS infrastructure, and energy data integration. 
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/chriscskinner/)
-- 📄 [Resume (PDF)](./resume.pdf)
-- 📬 [Email](mailto:kingshorthair@gmail.com)
+## 🔗 Connect
+[📧 Email](mailto:kingshorthair@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/chriscskinner/) • [📄 Resume (PDF)](./resume.pdf)  •  [🏃‍♂️ Strava](https://www.strava.com/athletes/111749)

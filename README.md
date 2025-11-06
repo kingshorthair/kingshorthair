@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Chris Skinner
 Geoscience Data Leader | Data Engineering | Metadata Governance | GIS Architecture
 
-> I build systems that turn geoscience data into insight — from spatial pipelines and metadata governance to scalable delivery platforms. Success = People + technology + data. 
+> I build systems that turn geoscience data into insight — from spatial pipelines and metadata governance to scalable delivery platforms. Success = f(People * Technology * Data)
  
 ---
 
-## 🧱 Highlights
 - 🌍 **20+ years** of experience in petroleum and geoscience data systems at the U.S. Geological Survey  
 - ⚙️ Expertise in **GIS infrastructure**, **data engineering**, **metadata lifecycle** and  **automation**  
 - 🗂️ Proven leader in aligning technical pipelines with **FAIR** and **open data** principles for discoverability, reuisability and interoperability. 

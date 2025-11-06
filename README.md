@@ -35,4 +35,4 @@ When not wrangling data or improving metadata governance, I’m exploring Colora
 ---
 
 ## 🔗 Connect
-[📧 Email](mailto:kingshorthair@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/chriscskinner/) • [📄 Resume (PDF)](./Christopher_Skinner_Data_Systems_Leader_Resume.pdf)  •  [🏃‍♂️ Strava](https://www.strava.com/athletes/111749)
+[📧 Email](mailto:kingshorthair@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/chriscskinner/) • [📄 Resume (PDF)](./resume.pdf)  •  [🏃‍♂️ Strava](https://www.strava.com/athletes/111749)
